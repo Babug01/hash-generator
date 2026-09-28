@@ -1,6 +1,6 @@
 # Hash Generator
 
-**Live demo:** https://babug01.github.io/hash-generator/
+**Live demo:** https://hash-generator-three-eta.vercel.app (Vercel) · [GitHub Pages mirror](https://babug01.github.io/hash-generator/)
 
 Compute MD5, SHA-1, SHA-256, SHA-384, SHA-512, and HMAC digests of text or an uploaded file,
 entirely client-side via the Web Crypto API. Runs entirely in the browser; nothing you type or
